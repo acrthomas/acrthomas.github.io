@@ -11,49 +11,54 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B.A. in Spanish Studies, American University, 2015
+* M.A. in Linguistics, Southern Illinois University Carbondale, 2020
+* Ph.D in Linguistics, Northwestern University, 2025 (expected)  
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>Thomas, A. (2020). <em>The Emergent Prosodic System(s) of Bilbao-Area Standard Basque </em>. Southern Illinois University at Carbondale. 2020.</ul>
   
-Talks
+Conference Presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  <ul>Punske, J & Thomas, A. (2020). <em>Race & Culture in Conlangs</em> [Conference Presentation]. MLA 2020 Annual Convention, Seattle, WA, United States.</ul>
   
-Teaching
+Graduate Teaching Assistant
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>LING 300: Child Language. TA, NU.</ul>
+  <ul>LING 270: Meaning. TA, NU.</ul>
+  <ul>LING 222: Language, Politics & Identity. TA, NU.</ul>
+  <ul>LING 221: Language & Prejudice. TA, NU.</ul>
+  <ul>LING 200: Language, Society & the Mind. TA, SIUC.</ul>
+  <ul>LING 320i: Language, Gender, and Power. TA, SIUC. </ul>
+  <ul>LING 102: English Composition II for English Students. Primary Instructor, SIUC.</ul>
+  <ul>LING 101: English Composition I for English Students. Primary Instructor, SIUC.</ul>
   
-Service and leadership
+Professional Affiliations
 ======
-* Currently signed in to 43 different slack teams
+* Linguistic Society of America (LSA) Member
+* Northwestern University Graduate Workers (NUGW) Member 
+
+Skills
+======
+* Technologies
+    * R
+    * Python
+    * Rust
+    * MySQL
+    * LaTeX
+*Software
+    * Praat
+    * LibreOffice Suite / iWork Suite / Microsoft Office Suite
+    * DBeaver
+    * Postgres
+    * pgAdmin
+* Profiecient in Linux, macOS & Windows
+
+
+Language Proficiency
+======
+* English (L1)
+* Spanish (High Proficiency)
+* ASL (Beginner)
+* Basque (Beginner)
