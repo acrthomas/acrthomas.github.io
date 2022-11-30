@@ -47,7 +47,7 @@ Skills
     * Rust
     * MySQL
     * LaTeX
-*Software
+* Software
     * Praat
     * LibreOffice Suite / iWork Suite / Microsoft Office Suite
     * DBeaver
