@@ -54,7 +54,7 @@ Skills
     * DBeaver
     * Postgres
     * pgAdmin
-* Profiecient in Linux, macOS & Windows
+* Profiecient with Linux, macOS & Windows
 
 
 Language Proficiency
