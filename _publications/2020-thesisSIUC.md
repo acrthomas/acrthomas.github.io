@@ -4,7 +4,6 @@ collection: publications
 permalink: /publications/2020-thesisSIUC
 excerpt: 'An exploration of the prosodic strategies employed by speakers of Standard Basque.'
 date: 2020-05-01
-venue: 'ProQuest'
 paperurl: 'http://pharyngeals.github.io/files/thesis_SIUC.pdf'
 citation: 'Rochelle Thomas, A.C. (2020). <em>The emergent prosodic system(s) of bilbao-area standard basque</em> (Order No. 27833317) [Master's Thesis, Southern Illinois University at Carbondale]. ProQuest Dissertations Publishing.'
 ---
@@ -14,6 +13,6 @@ Results supports the previous findings of Gaminde et al. (2015) as well as those
 et al. (2015), in terms of how stress is realized in Standard Basque when taking into account
 factors such as syllable weight and syllable count. Findings also support the proposition of Hualde & Beristain (2020) that inter-speaker variation is heavily affected by the contact speakers have with other dialects of Basque.
 
-[Grab the paper here](http://pharyngeals.github.io/files/thesisSIUC.pdf)
+[grab the paper here](http://pharyngeals.github.io/files/thesis_SIUC.pdf)
 
 Citation: Rochelle Thomas, A.C. (2020). <em>The Emergent Prosodic System(s) of Bilbao-Area Standard Basque</em> [Master's Thesis, Southern Illinois University at Carbondale]. ProQuest Dissertations Publishing.
