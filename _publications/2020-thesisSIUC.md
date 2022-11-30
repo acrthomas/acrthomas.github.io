@@ -1,7 +1,7 @@
 ---
 title: "The Emergent Prosodic System(s) of Bilbao-Area Standard Basque"
 collection: publications
-permalink: /publication/thesisSIUC
+permalink: /publication/2020-thesisSIUC
 excerpt: 'An exploration of the prosodic strategies employed by speakers of Standard Basque.'
 date: 2020-05-01
 venue: 'ProQuest'
