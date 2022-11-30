@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/thesis-SIUC
 excerpt: 'An exploration of the prosodic strategies employed by speakers of Standard Basque.'
 date: 2020-05-01
+venue: 'ProQuest Database'
 paperurl: 'https://pharyngeals.github.io/files/thesis_SIUC.pdf'
 citation: 'Rochelle Thomas, A.C. (2020). <i>The emergent prosodic system(s) of bilbao-area standard basque</i> (Order No. 27833317) \[Master's Thesis, Southern Illinois University at Carbondale]. ProQuest Dissertations Publishing.'
 ---
