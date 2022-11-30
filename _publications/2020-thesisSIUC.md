@@ -5,7 +5,7 @@ permalink: /publication/2020-thesisSIUC
 excerpt: 'An exploration of the prosodic strategies employed by speakers of Standard Basque.'
 date: 2020-05-01
 venue: 'ProQuest'
-paperurl: 'http://pharyngeals.github.io/files/thesisSIUC.pdf'
+paperurl: 'http://pharyngeals.github.io/files/thesis_SIUC.pdf'
 citation: 'Rochelle Thomas, A.C. (2020). <em>The emergent prosodic system(s) of bilbao-area standard basque</em> (Order No. 27833317) [Master's Thesis, Southern Illinois University at Carbondale]. ProQuest Dissertations Publishing.'
 ---
 The aim of this study was to contribute to the larger body of research concerned with Basque dialectology and prosodic typology by investigating the prosodic systems of the Basque dialects spoken in Southern Basque Country. The main goal of the analysis was to look at prosody at the phrasal level and to find the acoustic correlates of stress in Standard Basque and to determine what, if any, factors affect said correlates. 6 Basque-Spanish bilinguals whose primary Basque dialect was the standard participated in two elicitation tasks: one for words in isolation and another for neutral declaratives and yes-no questions. Measurements were taken for pitch (Hz), intensity (dB), and duration (ms) in order to evaulate the characteristics of accentual prominence produced by the participants.
