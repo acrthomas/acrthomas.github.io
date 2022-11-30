@@ -1,11 +1,11 @@
 ---
 title: "The Emergent Prosodic System(s) of Bilbao-Area Standard Basque"
 collection: publications
-permalink: /publications/2020-thesisSIUC
+permalink: /publications/thesis-SIUC
 excerpt: 'An exploration of the prosodic strategies employed by speakers of Standard Basque.'
 date: 2020-05-01
-paperurl: 'https://www.proquest.com/docview/2437344538/9EDEAF79FAAA4257PQ/1?accountid=147023'
-citation: 'Rochelle Thomas, A.C. (2020). <em>The emergent prosodic system(s) of bilbao-area standard basque</em> (Order No. 27833317) [Master's Thesis, Southern Illinois University at Carbondale]. ProQuest Dissertations Publishing.'
+paperurl: 'https://pharyngeals.github.io/files/thesis_SIUC.pdf'
+citation: 'Rochelle Thomas, A.C. (2020). <em>The emergent prosodic system(s) of bilbao-area standard basque</em> (Order No. 27833317) \[Master's Thesis, Southern Illinois University at Carbondale\]. ProQuest Dissertations Publishing.'
 ---
 
 The aim of this study was to contribute to the larger body of research concerned with Basque dialectology and prosodic typology by investigating the prosodic systems of the Basque dialects spoken in Southern Basque Country. The main goal of the analysis was to look at prosody at the phrasal level and to find the acoustic correlates of stress in Standard Basque and to determine what, if any, factors affect said correlates. 6 Basque-Spanish bilinguals whose primary Basque dialect was the standard participated in two elicitation tasks: one for words in isolation and another for neutral declaratives and yes-no questions. Measurements were taken for pitch (Hz), intensity (dB), and duration (ms) in order to evaulate the characteristics of accentual prominence produced by the participants.
@@ -14,6 +14,6 @@ Results supports the previous findings of Gaminde et al. (2015) as well as those
 et al. (2015), in terms of how stress is realized in Standard Basque when taking into account
 factors such as syllable weight and syllable count. Findings also support the proposition of Hualde & Beristain (2020) that inter-speaker variation is heavily affected by the contact speakers have with other dialects of Basque.
 
-[grab the paper here](https://www.proquest.com/docview/2437344538/9EDEAF79FAAA4257PQ/1?accountid=147023)
+grab the paper [here](https://pharyngeals.github.io/files/thesis_SIUC.pdf) or [here](https://www.proquest.com/docview/2437344538/9EDEAF79FAAA4257PQ/1?accountid=147023)
 
-Citation: Rochelle Thomas, A.C. (2020). <em>The Emergent Prosodic System(s) of Bilbao-Area Standard Basque</em> [Master's Thesis, Southern Illinois University at Carbondale]. ProQuest Dissertations Publishing.
+Citation: Rochelle Thomas, A.C. (2020). <em>The Emergent Prosodic System(s) of Bilbao-Area Standard Basque</em> \[Master's Thesis, Southern Illinois University at Carbondale\]. ProQuest Dissertations Publishing.
