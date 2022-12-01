@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The personal academic website of A.C. Rochelle Thomas"
+title: "A.C. Rochelle Thomas | Linguist"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

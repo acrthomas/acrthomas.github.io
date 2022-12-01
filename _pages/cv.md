@@ -77,4 +77,3 @@ Language Proficiencies
 * Spanish (High Proficiency)
 * ASL (Beginner)
 * Basque (Beginner)
-* 
