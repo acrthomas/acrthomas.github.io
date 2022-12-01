@@ -18,7 +18,6 @@ Education
 Professional Affiliations
 ======
 * *Linguistic Society of America* (LSA) Member
-* *Northwestern University Grad Workers* (NUGW) Member 
 * *Association of Non-binary and Trans Language Researchers* (ANTLR) Member
 
 Theses
