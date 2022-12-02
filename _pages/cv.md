@@ -31,14 +31,14 @@ Presentations
 
 Work Experience
 ======
-Auxiliar de Conversación. Junta de Extremadura; Cañamero, Cáceres, Extremadura, ESP.
-Oct 2015 - May 2016
-Assisted with English language instruction in the classroom. Led students (ages 6 to 12) through a variety of exercises and lessons to improve oral comprehension, reading and writing skills.
-
-ESL Instructor & Program Administrator. Language Loop LLC; Chicago, IL, USA
-Aug 2017 - Present
+*ESL Instructor & Program Administrator.* Language Loop LLC; Chicago, IL, USA \
+Aug 2017 - Present \
 Provided both private instruction and group lessons for adult learners of English.
-Coordinated a second semester of Spanish language instruction and headed the implementation of Japanese language instruction at the Google Chicago office..
+Coordinated a second semester of Spanish language instruction and headed the implementation of Japanese language instruction at the Google Chicago office.
+
+*Auxiliar de Conversación.* Junta de Extremadura; Cañamero, Cáceres, Extremadura, ESP. \
+Oct 2015 - May 2016 \
+Assisted with English language instruction in the classroom. Led students (ages 6 to 12) through a variety of exercises and lessons to improve oral comprehension, reading and writing skills.
 
 Graduate Assistantships
 ======
