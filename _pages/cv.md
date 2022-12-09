@@ -17,8 +17,9 @@ Education
 
 Professional Affiliations
 ======
-* *Linguistic Society of America* (LSA) Member
-* *Association of Non-binary and Trans Language Researchers* (ANTLR) Member
+* *Linguistic Society of America (LSA)* Member
+* *Association of Non-binary and Trans Language Researchers (ANTLR)* Member
+* *North American Research Network in Historical Sociolinguistics (NARNiHS)* Member
 
 Theses
 ======
