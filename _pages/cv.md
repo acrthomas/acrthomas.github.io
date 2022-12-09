@@ -56,7 +56,7 @@ Graduate Assistantships
 Skills
 ======
 
-* <u>Technologies</u>
+* <u>Technologies & Tools</u>
     * R
     * LaTeX
     * Rust
